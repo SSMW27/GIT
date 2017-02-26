@@ -1,0 +1,111 @@
+body {
+    color: white;
+    background-color: black;
+    font-size: 25px;
+}
+
+.box {}
+
+.break {
+    height: 10px;
+}
+
+.TB1 {
+    align-self: center;
+}
+
+.Nul {
+    background-color: black;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Bro {
+    background-color: saddlebrown;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Lblu {
+    background-color: lightseagreen;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Gry {
+    background-color: grey;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Blu {
+    background-color: dodgerblue;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Pur {
+    background-color: purple;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Red {
+    background-color: red;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Pink {
+    background-color: hotpink;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Spink {
+    background-color: darkblue;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Gre {
+    background-color: green;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Lgre {
+    background-color: lightgreen;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
+
+.Yel {
+    background-color: orange;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+}
